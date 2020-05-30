@@ -9,7 +9,6 @@ class Person {
       this.infectious = 0;
       this.infected = false;
       this.antibodies = false;
-      this.sick = false;
       this.elem = _elem;
     }
 
