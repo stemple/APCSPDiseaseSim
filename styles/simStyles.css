@@ -1,0 +1,26 @@
+#container {
+    width: 800px;
+    height: 400px;
+    position: relative;
+    background: white;
+    border-style: solid;
+  }
+  
+  .dot {
+    height: 10px;
+    width: 10px;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-color: #bbb;
+    border-radius: 50%;
+    display: inline-block;
+  }
+  
+  .infected {
+    background-color: red;
+  }
+  
+  .antibodies {
+    background-color: green;
+  }
