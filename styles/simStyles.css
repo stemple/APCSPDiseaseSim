@@ -12,7 +12,7 @@
     position: absolute;
     top: 0px;
     left: 0px;
-    background-color: #bbb;
+    background-color: rgb(20, 180, 230);
     border-radius: 50%;
     display: inline-block;
   }
